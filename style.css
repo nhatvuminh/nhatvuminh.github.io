@@ -35,12 +35,23 @@ body {
   color: white;
   font-size: 50px;
   position: fixed;
-  top: 80px;
+  top: 50px;
+}
+
+.happy-woman-day-subtitle {
+  color: white;
+  font-size: 30px;
+  position: fixed;
+  top: 120px;
+  align-self: center;
+  text-align: center;
+  padding-left: 200px;
+  padding-right: 200px;
 }
 
 .flowers {
   position: relative;
-  transform: scale(0.9);
+  transform: scale(0.5);
 }
 
 .flower {
