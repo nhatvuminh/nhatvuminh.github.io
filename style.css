@@ -32,26 +32,30 @@ body {
 }
 
 .happy-woman-day {
+  resize: both;
   color: white;
-  font-size: 50px;
+  align-self: center;
+  text-align: center;
+  font-size: 30px;
   position: fixed;
   top: 50px;
 }
 
 .happy-woman-day-subtitle {
+  resize: both;
   color: white;
-  font-size: 30px;
+  font-size: 20px;
   position: fixed;
-  top: 120px;
+  top: 130px;
   align-self: center;
   text-align: center;
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .flowers {
   position: relative;
-  transform: scale(0.5);
+  transform: scale(0.8);
 }
 
 .flower {
